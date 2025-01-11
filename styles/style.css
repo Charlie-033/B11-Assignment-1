@@ -39,22 +39,24 @@
 /* div-one styles */
 .div-one{
     display: flex;
-    margin:20px 160px;
-    /* background-color: #C6E4D6; */
+    margin:20px 140px;
     border-radius: 24px;
+    
 }
 .one-left{
     width: 50%;
+    padding-left: 60px;
 }
 
 .bd-2{
    font-size: 24px;
-   font-weight: bold;
+   font-weight: 600;
    color: #0e0e0e88;
-   margin-top: 115px; 
+   margin-top: 115px;
+   margin-bottom: 16px; 
 }
 .dis-one-des{
-    font-size: 55.5px;
+    font-size: 56px;
     font-weight: bold;
 }
 .explore-btn{
@@ -69,7 +71,10 @@
 }
 
 .img-one{
-    margin: 80px 60px;
+    padding: 80px 65px;
+   
+    
+
 }
 
 /* div-two styles */
