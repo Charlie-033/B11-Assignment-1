@@ -74,9 +74,6 @@
 
 .img-one{
     padding: 80px 65px;
-   
-    
-
 }
 
 /* div-two styles */
@@ -111,6 +108,7 @@
     font-size: 16px;
     color: #0e0e0eb0;
     word-spacing: 0px;
+    line-height: 1.5;
 }
 
 /* div-three */
@@ -125,6 +123,7 @@
     color: #0e0e0eb0;
     margin-top: 24px;
     margin-bottom: 32px;
+    line-height: 1.5;
 }
 
 .div-three{
@@ -159,7 +158,8 @@
 .description-3{
     font-size: 16px;
     color: #0e0e0eb0;
-    word-spacing: 0px; 
+    word-spacing: 0px;
+    line-height: 1.5; 
 }
 
 .learn-more-btn-1{
@@ -206,6 +206,7 @@
 .quote, .title{
     font-size: 16px;
     color: #0e0e0eb0;
+    line-height: 1.5;
 }
 .quote-from{
     font-size: 20px;
@@ -213,4 +214,70 @@
     color: rgba(0, 0, 0, 0.8);
     margin-top: 12px;
     margin-bottom: 5px;
+}
+/* div-five */
+/* div-six */
+.six{
+    margin:100px 140px;
+    
+}
+.left-image{
+    display: flex;
+    justify-content: center;
+    padding: 48px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.div-six-h1{
+    font-size: 40px;
+}
+.news-description{
+    font-size: 16px;
+    color: #0e0e0eb0;
+    margin-top: 24px;
+    margin-bottom: 32px;
+    line-height: 1.5;
+}
+.satelite{
+    border-radius: 20px;
+}
+.news{
+    margin-left: 32px;
+}
+.news-heading{
+    font-size: 32px;
+    color: rgba(0, 0, 0, 0.802);
+}
+.news-channel{
+    padding: 12px 0px;
+}
+.time-date{
+    font-size: 16px;
+    color: #0e0e0eb0;
+}
+.aljajera-news{
+    font-size: 16px;
+    color: #0e0e0eb0;
+    padding: 12px 0px;
+    line-height: 1.5;
+}
+.read-more-btn{
+    font-size: 18px ;
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 11px 20px;
+    color: white;
+    background-color: #09A15C;
+    border: none;
+    margin-top: 32px; 
+}
+
+.right-image{
+    display: flex;
+    justify-content: center;
+    padding: 48px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 24px;
 }
