@@ -115,7 +115,7 @@
 
 /* div-three */
 .three{
-    margin:80px 140px;
+    margin:80px 140px 32px 140px;
 }
 .div-three-h1{
     font-size: 40px;
@@ -194,4 +194,23 @@
     border: none;
     margin-top: 24px; 
      
+}
+/* div-four */
+.div-four{
+    margin: 25px 140px  32px 140px;
+    border: 1px solid rgba(0, 0, 0, 0.166);
+    border-radius: 10px;
+    padding: 48px 15px;
+    background-color: white;
+}
+.quote, .title{
+    font-size: 16px;
+    color: #0e0e0eb0;
+}
+.quote-from{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.8);
+    margin-top: 12px;
+    margin-bottom: 5px;
 }
