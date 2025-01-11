@@ -386,9 +386,10 @@
 
 /* Hover styles */
 .subscribe:hover, .donate-btn:hover, .read-more-btn:hover,.learn-more-btn-1:hover,.learn-more-btn-2:hover,.learn-more-btn-3:hover,.explore-btn:hover,.sign-in:hover{
+    display: inline-block;
     background-color: rgb(255, 102, 0);
-    animation: pulse 1s ease-in-out .4s;
     transition: 0.3s;
+    
 }
 
 .div-two-content:hover,.div-three-content-1:hover,.div-three-content-2:hover,.div-three-content-3:hover{
